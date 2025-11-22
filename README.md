@@ -1,1 +1,1 @@
-Leetcode Daily Practice
+A personalized LeetCode practice repository 
