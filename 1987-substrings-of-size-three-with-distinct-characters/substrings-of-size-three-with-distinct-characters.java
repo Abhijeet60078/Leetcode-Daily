@@ -8,8 +8,11 @@ class Solution {
             if(a!=b&&b!=c&&c!=a){
                 count++;
             }
+
+
         }
         return count;
+
         
     }
 }
